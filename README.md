@@ -1,1 +1,1 @@
-The code for  [Anchor Structure Regularization Induced Multi-view Subspace Clustering via Enhanced Tensor Rank Minimization]Interpretable Nonconvex Submodule Clustering Algorithm Using $\ell_{r}$-Induced Tensor Nuclear Norm and $\ell_{2,p}$ Column Sparse Norm with Global Convergence Guarantees
+The code for [Interpretable Nonconvex Submodule Clustering Algorithm Using $\ell_{r}$-Induced Tensor Nuclear Norm and $\ell_{2,p}$ Column Sparse Norm with Global Convergence Guarantees].
